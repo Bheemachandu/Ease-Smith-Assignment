@@ -1,0 +1,35 @@
+.cartContainer{
+    width: 100vw;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    
+}
+
+hr{
+    border: 0.8px solid #B0B0B0;
+    
+}
+
+.cartBtn{
+    width: 307px;
+height: 45px;
+background: #165315;
+color: #FFFFFF;
+
+}
+
+.cartHead2{
+    color: #165315;
+}
+
+.cartHead1{
+    color:#0F4811;
+}
+
+.hr1{
+    border-color: black;
+}

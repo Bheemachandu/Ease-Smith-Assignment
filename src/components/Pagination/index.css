@@ -1,0 +1,15 @@
+.head{
+    color:black;
+}
+
+.paginationContainer{
+    width: 100vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #A6A6A6!important;
+}
+

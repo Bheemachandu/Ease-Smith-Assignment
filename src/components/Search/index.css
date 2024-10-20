@@ -1,0 +1,26 @@
+.searchContainer{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+.searchInnerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid ;
+    border-width: 1px;
+    border-color: #00000099;
+    padding: 1px;
+}
+
+.SerachIcons{
+    width: 25px;
+    height: 25px;
+}
+
+.searchInput{
+    width: 30vw;
+    height: 25px;
+    border: none;
+}

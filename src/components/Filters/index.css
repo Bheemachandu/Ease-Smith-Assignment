@@ -1,0 +1,16 @@
+.filterContainer{
+    width: 25vw;
+    height: 540px;
+    padding: 15px;
+    background-color: #F0FFE5;
+    margin-right: 30px;
+}
+
+.filterInnerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

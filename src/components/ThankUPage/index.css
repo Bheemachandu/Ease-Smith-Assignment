@@ -1,0 +1,14 @@
+.mainContainer{
+    width: 100vw;
+    height:400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.thankButton{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}

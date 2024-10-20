@@ -1,0 +1,7 @@
+.productsContainer{
+    width: 100vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    display: flex;
+    margin-top: 40px;
+}

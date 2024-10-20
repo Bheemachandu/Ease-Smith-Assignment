@@ -1,0 +1,12 @@
+.paginationInnerContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #838383;
+    margin: 10px;
+
+}
+
+
+

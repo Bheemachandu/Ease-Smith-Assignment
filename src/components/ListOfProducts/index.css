@@ -1,0 +1,34 @@
+.listOfProductsContainer{
+    width: 100vw;
+}
+
+.sortByContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 20vw;
+    margin-bottom: 20px;
+}
+
+.selectEl{
+    background-color: #165315;
+    padding: 6px 7px 6px 7px;
+    color: #FFFFFF;
+}
+
+.plantsCardsList{
+    display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.ViewMoreBtn{
+    width: 175px;
+    height: 43px;
+    color: #FFFFFF;
+    border-radius: 30px;
+    background-color: #144D14;
+    
+}

@@ -1,0 +1,145 @@
+.FotterContainer{
+    background-color: #F0FFE5;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    width: 100vw;
+    margin-top: 40px;
+}
+
+.FooterInnerDiv{
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    margin-bottom: 40px;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.footerBtn{
+    width: 130px;
+    height: 35px;
+    top: 50px;
+    border-radius: 30px;
+    background-color: #247822;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+.footerpara{
+    width: 283px;
+height: 45px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+
+color: #838383;
+
+}
+
+.footerHead{
+    width: 258px;
+height: 60px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: #000000;
+}
+
+.footerInput{
+    width: 269px;
+    height: 35px;
+    border: 1px;
+}
+
+.footerhead2{
+    width: 184.17px;
+height: 30px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: #000000;
+margin-bottom: 20px;
+
+}
+
+.footerPara2{
+    width: 184px;
+height: 29px;
+font-family: Poppins;
+font-size: 15px;
+font-weight: 500;
+line-height: 22.5px;
+text-align: left;
+color: #999999;
+margin-top: 5px;
+margin-bottom: 10px;
+}
+
+.footerPara3{
+    height:90px
+}
+
+.addressPara{
+    width:200px
+}
+
+.footerPara4{
+    color: #838383;
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 1175px;
+    height: 75px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 2vw;
+    margin-right: 2vw;
+
+}
+
+.socialMediaIcons{
+    width: 24.68px;
+    height: 26px;
+}
+
+.SocialMediaIconsDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 15vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-bottom: 30px;
+}
+
+.specialHead{
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+hr{
+    border: 0.7px solid #0000004D
+}
+
+.footerPara5{
+    color: #0000004D;
+    width: 384px;
+    height: 24px;
+    top: 3158px;
+    left: 108px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-bottom: 40px;
+}

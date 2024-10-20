@@ -1,0 +1,59 @@
+button{
+    border: none;
+    background-color: transparent;
+}
+
+select{
+    border: none;
+}
+
+.navBar{
+   padding-top: 46px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   width: 100%;
+   padding-left: 2vw;
+   padding-right: 2vw;
+}
+
+
+
+.logoContainer{
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    width: 17%;
+}
+
+.menuContainer{
+    display: flex;
+    justify-content: space-between;
+    width:50%;
+}
+
+.ProfileCartConatiner{
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    width: 10%;
+}
+
+.icon{
+    color: black;
+}
+
+.profileContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profileIcon{
+    width: 25px;
+    height: 25px;
+}
